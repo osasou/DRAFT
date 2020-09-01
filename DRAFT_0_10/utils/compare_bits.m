@@ -29,12 +29,16 @@ for i = 1:k1
         disp(j)
         disp(output(:,j))
         %}
-        if any(output(:,j)~=input(:,i)) % ~= means != in C lang
-            continue
+        try
+            if any(output(:,j)~=input(:,i)) % ~= means != in C lang
+                continue
+            end
+            found(i,1) = j;
+
+            break
+        catch
+            disp("errorrrr")
         end
-        found(i,1) = j;
-        
-        break
     end
 end
 if(k1 < sum(found>0))

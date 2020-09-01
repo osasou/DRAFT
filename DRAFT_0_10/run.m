@@ -32,8 +32,8 @@ function [propfound_trial, input_bits, output_bits, h_dist_trial, h_all_out] = c
     h_all_out = [];
     
     encoder=Encoder(re,m,p,K,EbN0,[]);
-    [encoder, input_bits] = encoder.generate_random_bits() %we update the value of input_bits to save confusion, despite already being encoder.input_bits
-    [Y, h_all_in] = encoder.chirrup_encode
+    [encoder, input_bits] = encoder.generate_random_bits(); %we update the value of input_bits to save confusion, despite already being encoder.input_bits
+    [Y, h_all_in] = encoder.chirrup_encode;
     decoder=Decoder(Y,re,m,p,K);
     [output_bits, h_all_out] = decoder.chirrup_decode();
     propfound_trial = compare_bits(input_bits,output_bits);
