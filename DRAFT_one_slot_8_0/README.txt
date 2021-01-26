@@ -1,9 +1,95 @@
-1/6 7_0
+
+1/13
+Rank差がl全て8の結果
+
+  Columns 1 through 7
+
+    "EbN0"    "20"    "dB"    "BER"    "0.0044714"    "prop_packet"    "0.047533"
+
+  Columns 8 through 9
+
+    "h_dist"    "0.0073409"
+
+  Columns 1 through 7
+
+    "EbN0"    "25"    "dB"    "BER"    "0.0031333"    "prop_packet"    "0.033033"
+
+  Columns 8 through 9
+
+    "h_dist"    "0.0050052"
+
+  Columns 1 through 7
+
+    "EbN0"    "30"    "dB"    "BER"    "0.0026163"    "prop_packet"    "0.027367"
+
+  Columns 8 through 9
+
+    "h_dist"    "0.004049"
+
+Warning: MATLAB has disabled some advanced graphics rendering features by switching to
+software OpenGL. For more information, click <a
+href="matlab:opengl('problems')">here</a>.
+
+filename =
+
+    "tests/user_num3EbN030r0m8p0trials10000"
+
+
+1/9
+
+DRAFT_6_1のコピー
 Pを限定しないで20,25,30dBで
+やろうと思ったけど，2^44の3条だから厳しい．
+
+→ Pを限定して，20,25,30dBで どのPの限定の仕方が一番良いor悪いかを調べる
+→ one_slot_6_1をコピーしてone_slot_8_0でやる！
 
 
+rank差は気にせず，全て異なる行列Pをとる時の雑音無しの最後の値
 
-1/6 6_1
+    "EbN0"    "30"    "dB"    "BER"    "0.0065876"    "prop_packet"    "0.0723"
+
+  8 列から 9 列
+
+    "h_dist"    "0.010816"
+
+
+filename = 
+
+    "tests/user_num3EbN030r0m8p0trials10000"
+
+rank差は気にせず，全て異なる行列Pをとる時の雑音無し＋フェージング無し．
+すごい悪い結果．
+
+  1 列から 7 列
+
+    "EbN0"    "30"    "dB"    "BER"    "0.090668"    "prop_packet"    "0.99963"
+
+  8 列から 9 列
+
+    "h_dist"    "0.30125"
+
+
+filename = 
+
+    "tests/user_num3EbN030r0m8p0trials10000"
+
+全てrank差が8になるようにし，sigmaを無しにしたとき(フェージングのみ)の最後の値．
+  1 列から 7 列
+
+    "EbN0"    "30"    "dB"    "BER"    "0.0034888"    "prop_packet"    "0.0363"
+
+  8 列から 9 列
+
+    "h_dist"    "0.0051678"
+
+
+filename = 
+
+    "tests/user_num3EbN030r0m8p0trials10000"
+
+
+1/6
 
 これはPを限定してやった結果
 普通にKmeans++した．
