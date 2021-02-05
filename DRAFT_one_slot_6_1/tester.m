@@ -5,7 +5,7 @@ re = 0
 
 start_ebn0 = 20
 EbN0 = 30
-trials = 10000;
+trials = 100;
 slots = 3;
 user_num = 3 %ここ変えるならEncoderのhも変える
 prop = 1;
