@@ -1,4 +1,90 @@
 
+2/7
+
+    "EbN0"    "20"    "dB"    "BER"    "0.00030647"    "prop_packet"    "0.006215"    "h_dist"    "0.0022037"
+
+    "EbN0"    "25"    "dB"    "BER"    "0.00015048"    "prop_packet"    "0.00321"    "h_dist"    "0.0010932"
+
+    "EbN0"    "30"    "dB"    "BER"    "0.00016967"    "prop_packet"    "0.003645"    "h_dist"    "0.0012427"
+
+Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.
+
+filename =
+
+    "tests/user_num2EbN030r0m8p0trials200000"
+
+
+    "EbN0"    "20"    "dB"    "BER"    "0.00030581"    "prop_packet"    "0.0062075"    "h_dist"    "0.0022"
+
+    "EbN0"    "25"    "dB"    "BER"    "0.00015021"    "prop_packet"    "0.003205"    "h_dist"    "0.0010916"
+
+    "EbN0"    "30"    "dB"    "BER"    "0.00017057"    "prop_packet"    "0.0036575"    "h_dist"    "0.0012448"
+
+Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.
+
+filename =
+
+    "tests/user_num2EbN030r0m8p0trials200000"
+
+////////////////////////////////////////////////////////////
+
+2/5
+
+
+    "EbN0"    "20"    "dB"    "BER"    "0.00030626"    "prop_packet"    "0.0062075"    "h_dist"    "0.0022002"
+
+    "EbN0"    "25"    "dB"    "BER"    "0.00014981"    "prop_packet"    "0.0032025"    "h_dist"    "0.0010913"
+
+    "EbN0"    "30"    "dB"    "BER"    "0.00017057"    "prop_packet"    "0.0036475"    "h_dist"    "0.0012448"
+
+Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.
+
+filename =
+
+    "tests/user_num2EbN030r0m8p0trials200000"
+
+    "EbN0"    "20"    "dB"    "BER"    "0.00030592"    "prop_packet"    "0.0062075"    "h_dist"    "0.002202"
+
+    "EbN0"    "25"    "dB"    "BER"    "0.00015048"    "prop_packet"    "0.00321"    "h_dist"    "0.0010932"
+
+    "EbN0"    "30"    "dB"    "BER"    "0.00016967"    "prop_packet"    "0.003645"    "h_dist"    "0.0012427"
+
+Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.
+
+filename =
+
+    "tests/user_num2EbN030r0m8p0trials200000"
+
+
+    "EbN0"    "20"    "dB"    "BER"    "0.00030647"    "prop_packet"    "0.006215"    "h_dist"    "0.0022037"
+
+    "EbN0"    "25"    "dB"    "BER"    "0.00015048"    "prop_packet"    "0.00321"    "h_dist"    "0.0010932"
+
+    "EbN0"    "30"    "dB"    "BER"    "0.00016967"    "prop_packet"    "0.003645"    "h_dist"    "0.0012427"
+
+Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.
+
+filename =
+
+    "tests/user_num2EbN030r0m8p0trials200000"
+
+
+
+
+
+
+
+
+
+
+
+
+
 2/3
 とりあえず，EbN0を直した結果
     "EbN0"    "20"    "dB"    "BER"    "0.0043894"    "prop_packet"    "0.078707"    "h_dist"    "0.014573"

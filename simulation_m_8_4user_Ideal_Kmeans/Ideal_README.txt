@@ -28,6 +28,57 @@ filename =
     "tests/user_num4EbN030r0m8p0trials100000"
 
 
+    "EbN0"    "20"    "dB"    "BER"    "0.009702"    "prop_packet"    "0.16286"    "h_dist"    "0.03604"
+
+    "EbN0"    "25"    "dB"    "BER"    "0.0084264"    "prop_packet"    "0.14288"    "h_dist"    "0.031427"
+
+    "EbN0"    "30"    "dB"    "BER"    "0.008126"    "prop_packet"    "0.1375"    "h_dist"    "0.029853"
+
+Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.
+
+filename =
+
+    "tests/user_num4EbN030r0m8p0trials100000"
+
+
+
+    "EbN0"    "20"    "dB"    "BER"    "0.0096943"    "prop_packet"    "0.16239"    "h_dist"    "0.036026"
+
+    "EbN0"    "25"    "dB"    "BER"    "0.0084275"    "prop_packet"    "0.14296"    "h_dist"    "0.03142"
+
+    "EbN0"    "30"    "dB"    "BER"    "0.0081218"    "prop_packet"    "0.13724"    "h_dist"    "0.029864"
+
+Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.
+
+filename =
+
+    "tests/user_num4EbN030r0m8p0trials100000"
+
+
+    "EbN0"    "20"    "dB"    "BER"    "0.0097002"    "prop_packet"    "0.16283"    "h_dist"    "0.036025"
+
+    "EbN0"    "25"    "dB"    "BER"    "0.0084242"    "prop_packet"    "0.14285"    "h_dist"    "0.031419"
+
+    "EbN0"    "30"    "dB"    "BER"    "0.0081302"    "prop_packet"    "0.13758"    "h_dist"    "0.029873"
+
+Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.
+
+filename =
+
+    "tests/user_num4EbN030r0m8p0trials100000"
+
+
+
+
+
+
+
+
+
+
 
 
 2/3
